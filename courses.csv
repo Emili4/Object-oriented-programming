@@ -1,0 +1,101 @@
+ID,Title,Semester,Ects,Mandatory
+3051,Human Physiology,4,6,Yes
+3052,Software Testing,2,7,Yes
+3053,Psychology of Happiness,5,4,No
+3054,Computer Architecture,3,8,Yes
+3055,Film Studies,6,3,No
+3056,Marketing Research,1,5,No
+3057,Artificial Neural Networks,7,8,Yes
+3058,English Literature,2,4,No
+3059,Quantum Mechanics,8,6,Yes
+3060,Corporate Finance,4,5,No
+3061,Spanish History,3,3,No
+3062,Operations Management,5,7,Yes
+3063,Data Analysis,6,6,Yes
+3064,Environmental Ethics,1,3,No
+3065,Introduction to Linguistics,7,4,No
+3066,Robotics Engineering,2,7,Yes
+3067,Public Speaking,4,3,No
+3068,Human-Computer Interaction,5,8,Yes
+3069,Organizational Behavior,3,4,No
+3070,Modern Art History,6,3,No
+3071,Computer Vision,8,8,Yes
+3072,Philosophy of Science,1,4,No
+3073,Global Marketing,4,5,No
+3074,Computer Ethics,5,7,Yes
+3075,Introduction to Astrophysics,2,6,Yes
+3076,International Business,7,4,No
+3077,Network Programming,3,7,Yes
+3078,Italian Renaissance,6,3,No
+3079,Advanced Database Management,5,7,Yes
+3080,Introduction to Political Philosophy,1,3,No
+3081,Information Security,4,8,Yes
+3082,Spanish Cinema,2,4,No
+3083,Public Policy Analysis,7,3,No
+3084,Human-Computer Interaction Design,3,7,Yes
+3085,Japanese Literature,8,5,No
+3086,Strategic Management,4,4,No
+3087,Philosophy of Mind,2,3,No
+3088,Mobile Game Development,7,6,Yes
+3089,Business Law,3,5,No
+3090,Cloud Computing,5,8,Yes
+3091,World Religions,1,4,No
+3092,Managerial Economics,6,3,No
+3093,Computer Networks Security,2,6,Yes
+3094,Screenwriting,8,8,Yes
+3095,Introduction to Cognitive Science,4,5,No
+3096,Financial Markets and Institutions,3,7,Yes
+3097,Computer Animation,5,8,Yes
+3098,Developmental Psychology,2,4,No
+3099,Operations Research,6,3,No
+3100,Entrepreneurial Finance,7,4,No
+3101,Introduction to Computer Science,1,6,Yes
+3102,Calculus I,2,5,Yes
+3103,English Composition,1,3,No
+3104,Physics,3,8,Yes
+3105,History of Art,2,4,No
+3106,Programming Fundamentals,1,6,Yes
+3107,Linear Algebra,4,5,Yes
+3108,Introduction to Psychology,2,3,No
+3109,Database Management,3,7,Yes
+3110,Spanish Language,1,4,No
+3111,Statistics,4,5,Yes
+3112,World Literature,3,3,No
+3113,Web Development,2,6,Yes
+3114,Chemistry,5,8,Yes
+3115,Philosophy and Ethics,3,3,No
+3116,Software Engineering,4,7,Yes
+3117,Music Appreciation,2,4,No
+3118,Electrical Circuits,6,6,Yes
+3119,Marketing Principles,3,3,No
+3130,Data Structures,5,7,Yes
+3131,Microeconomics,1,4,No
+3122,Operating Systems,6,8,Yes
+3123,French Language,2,5,No
+3124,Organic Chemistry,7,8,Yes
+3125,Introduction to Sociology,3,3,No
+3126,Algorithms Design,4,7,Yes
+3127,Macroeconomics,8,4,No
+3128,Artificial Intelligence,5,8,Yes
+3129,German Language,4,5,No
+3130,Political Science,6,3,No
+3131,Computer Networks,3,7,Yes
+3132,Italian Language,5,4,No
+3133,International Relations,7,3,No
+3134,Human Anatomy,2,6,Yes
+3135,Environmental Science,4,7,Yes
+3136,Spanish Literature,6,3,No
+3137,Machine Learning,8,8,Yes
+3138,Communication Skills,1,3,No
+3139,Introduction to Philosophy,7,4,No
+3140,Mobile App Development,2,6,Yes
+3141,Business Ethics,5,4,No
+3142,Computer Graphics,3,7,Yes
+3143,Japanese Language,8,5,No
+3144,Entrepreneurship,4,4,No
+3145,Human Rights,2,3,No
+3146,Advanced Mathematics,7,6,Yes
+3147,Financial Accounting,3,5,No
+3148,Network Security,5,8,Yes
+3149,Theater Arts,1,4,No
+3150,Introduction to Economics,6,3,No
